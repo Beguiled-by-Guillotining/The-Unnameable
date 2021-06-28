@@ -1,0 +1,28 @@
+[speaker:Joanna] Hora
+
+<break time="1s"/>
+[speaker:Amy] The making of 'Hora' differs substantially from all of the albums that came before it and almost all that came after it. Instead of being completely pre-made and trivially repeatable pieces of music, every song on 'Hora' is a recorded live performance on a MIDI pad.
+
+<break time="1s"/>
+[speaker:Joey] But they are not necessarily good performances. Let's break this review into parts and first look exclusively at 'Side A - Bee': This is an ambient, drone-y piece that is never quite satisfied with being an ambient, drone-y piece. The parts that are just ambient and drone-y are fine, not too interesting for the most part but there are also some nice sounds in there. The bigger problem arises mostly from the less drone-y parts because they just aren't good for what they are. Mainly the part towards the second half of the song with the plucked notes played atop the droning sound sucks. It's just too loud and not very good, bad even.
+<break time="0.5s"/>
+The songs on 'Side B' are more interesting: They are experimental, drum-only pieces. They might be somewhat hard to listen to but I honestly like them. They are a little slow in parts, have some structural elements that repeat too often and their refusal to conform to normal timing can be frustrating but they just feel new and exciting somehow and some parts are genuinely good sounding rhythms. I don't know, these are probably just a very specific kind of thing that few people besides me would find cool. Also, again, these are definitely not the best execution of their concept but I just like the concept enough to forgive them.
+
+<break time="1s"/>
+[speaker:Brian] The cover art for this album is a screenshot from the video game 'Catacombs of Solaris' that I edited to make it look more clock-esque and also vortex-y. Make of that interpretation what you will... Probably the weakest cover I made but it could be worse.
+
+<break time="1s"/>
+[speaker:Amy] So, how did the song-writing process change when going from the usual songs to this live-performance kind of thing? Not too much actually: I'm still defining constraints that a song has to fit into and the song is then just one possibility within these constraints. It's just that now I directly control which possibility is chosen instead of it being random and thus I can keep the constraints more relaxed. 'Side A' even uses some randomness for the exact note-height of its drones.
+<break time="0.5s"/>
+The main thing that's changed is my mental framing of the process: I'm not making songs here. I'm making instruments.
+
+<break time="1s"/>
+[speaker:Nicole] Just a quick tidbit of trivia about the song titles: The fact that that song 'Not Bee 2' is listed as 'Side Bee' instead of 'Side B' was originally a typo. But it was kept because it further emphasized the fact that 'Side A' really only consists of one song that had to be split because of Bandcamp while 'Side B' is two separate though similar songs. It's also just a fun bit of further confusion to throw into the naming scheme of this album.
+
+<break time="1s"/>
+[speaker:Amy] Another thing that's changed is of course the fact that recording songs involves some sort of performance now. And that is definitely an interesting experience. I doubt I have any thought-provoking observations about performances though. As I shortly mentioned earlier, Sonic Pi, the tool that I am using to make music, is usually meant for live performances anyways, even without necessarily using a MIDI pad, just by editing code. I actually did a little bit of that in my performance of 'Side A'. It didn't turn out too well. But the main reason that I don't do live-coding is not that I'm bad at it - I'd probably get better by practicing - but rather that I like tinkering with songs. You can't really do that with live-coded song performances because the songs in these are transient, not a thing you can make little changes to incrementally. At least not if your performances are more jam and less rehearsed piece which is what I would definitely choose.
+<break time="0.5s"/>
+A related fun fact: I originally planned for this album to be much longer. A multiple hour live performance where I would just occasionally change things and let the song continue running uninterrupted for long stretches of time. But that turned out to be hard and require being good at live coding. Who would have thought?
+
+<break time="1s"/>
+[speaker:Russell] What you are listening to right now is another performance of 'Side A'. That's also what you heard during other narrations here when there wasn't any more appropriate music to play. It works well as a background kind of thing. Next up, we have a performance on another virtual instrument that I made at the time when I made Hora. Let's call it "Side Z - Bssss".

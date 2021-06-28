@@ -1,0 +1,34 @@
+[speaker:Joanna] TMTASL
+
+<break time="1s"/>
+[speaker:Amy] Starting here, the chronological album progression and the order in which I made the included songs stops being in sync. Songs from both 'Blossoms' and 'Eschatology' were made before the first track of this album. The grouping into albums is now based on some more or less concrete theme. The theme here are text-to-speech lyrics made out of cut-up pieces from anime and manga reviews.
+
+<break time="1s"/>
+[speaker:Joey] That's quite the pitch. Sadly, the music doesn't really live up to the full potential of it. The lyrics have some funny and memorable quotes but never really come together to be much more than the sum of their lines. The actual music is kind of underwhelming. None of these songs really sound as if their was some grand idea behind the instrumentation. It just sort of pads out the vocals. The more experimental 'Completely Not Ever Been Done Before' isn't really good or at all interesting. As for 'The French excel in serving leftovers because they so thoroughly understand the art of flavoring and seasoning' -
+
+[speaker:Nicole] Let me quickly interrupt to clarify something that might have been obvious: The order of the lyrics in that song is randomly generated. It's essentially a device to deliver the leftover quotes in different permutations, some hopefully interesting, without having to manually put these lines into any order.
+
+[speaker:Joey] And it's a decent device to do so. It also has a nice enough atmosphere but it goes on for too long and repeats some lines too much, while completely skipping others. Text to speech and quote-unquote "found poetry" from anime reviews are interesting concepts and one can kind of glimpse that they can work and even work together but the concept in and of itself is probably the best thing about this EP.
+
+<break time="1s"/>
+[speaker:Brian] The 'TMTASL' cover was made using ArtBreeder and it's pretty neat I think. It also is the last cover to contain the name of the band and the title of the release. These blend well into the overall image here but look kinda bad on closer inspection. Leaving them out would have probably been the better choice and thus also was the choice for every album cover going forward. The cover depicts an elvish looking dude in MyAnimeList blue. What does he represent? Pffff, make up your own theory on that.
+
+<break time="1s"/>
+[speaker:Nicole] Let's examine the lyrics writing process for this EP. The first step was gathering material: For that I just scrolled through recently published reviews on MyAnimelist and more closely read those that caught my eyes. One good rule of thumb that I developed in this process is that reviews giving a very high or very low score are generally better sources of quotes than, say, a 7 out of 10. Then, equipped with a large file of review quotes, I would decide on a rough theme for a song and then go through the quotes looking for ones that fit my criteria. This short-list was then arranged into a more or less sensible shape with newly selected quotes acting as "glue" to make things fit and flow together better.
+<break time="0.5s"/>
+The title, as you might or might not have already figured out, comes from interspersing the letters of TTS - text-to-speech - and MAL - MyAnimelist.
+<break time="0.5s"/>
+The main influences for this EP were the text-to-speech narration on the album 'Murder of the Universe' (which is far better than TMTASL) and the dead-pan, found-poetry of the mundane, spoken-word lyrics of the band 'Dry Cleaning' (who are also far better than TMTASL).
+
+<break time="1s"/>
+[speaker:Russell] What you are currently hearing is not a TMTASL remix. That's because most songs from TMTASL are hard to remix given that they aren't so much about the music anyways. To offset this, have a newly written, TMTASL-style poem:
+
+<break time="0.5s"/>
+the soldiers were like beast carved from iron.
+their brains are still underdeveloped.
+This is where the beauty lies.
+the diversity of identity, thoughts, and beliefs of the human race.
+Couldn’t tell you why, but it just is.
+<break time="1s"/>
+
+The next song you will hear is actually a TMTASL remix, 'The French excel in serving leftovers because they so thoroughly understand the art of flavoring and seasoning v2'.
